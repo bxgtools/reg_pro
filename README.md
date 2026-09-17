@@ -1,1 +1,1 @@
-# bxgtools-reg_pro
+# reg_pro
